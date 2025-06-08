@@ -1,0 +1,4 @@
+I help children understand, label, and regulate their emotions at home to lead to better Success in the Classroom.  
+The children I am looking to work with struggle with the classroom environment, in a way that leads to disrupting patterns in the classroom flow as well as their ability to function happily and healthily within it.  
+The parents I am looking to work with are looking to explore new ways to further connect with and understand their child. They are looking for support and exploring new methods to help their child succeed in the tasks assigned to them  
+- Helping parents create structure for themselves and the child to operate within, with the goal set on increasing instances of successful behaviors
