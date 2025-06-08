@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27a8493a6718a447",
+            "id": "674de841281c3029",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,30 +174,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a8493a6718a447",
+  "active": "674de841281c3029",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Product Idea - Success in School/-> Mindmap/Drawing 2025-06-08 22.50.48.excalidraw.md",
-    "Product Idea - Success in School/-> Mindmap/Design First PDF Guide.md",
-    "Product Idea - Success in School/Overview.md",
-    "Untitled 1.canvas",
-    "Excalidraw/Drawing 2025-06-08 22.41.51.excalidraw.md",
-    "Product Idea - Success in School/Notes.md",
-    "Excalidraw",
-    "Product Idea - Success in School/Introduction for Parents.md",
+    "Product Idea - Success in School/-> Mindmap/Define Core Offering.md",
+    "Product Idea - Success in School/-> Mindmap/Create a Public Intro (LinkedIn).md",
     "Product Idea - Success in School/Mindmap.md",
     "Product Idea - Success in School/-> Mindmap/Plan for Growth.md",
-    "Product Idea - Success in School/-> Mindmap/Define Core Offering.md",
-    "Product Idea - Success in School/-> Mindmap/Develop Service Options.md",
     "Product Idea - Success in School/-> Mindmap/Learn about Local Needs.md",
     "Product Idea - Success in School/-> Mindmap/Gather Feedback and Iterate.md",
-    "Product Idea - Success in School/-> Mindmap/Create a Public Intro (LinkedIn).md",
-    "Product Idea - Success in School/Tasks.md",
+    "Product Idea - Success in School/-> Mindmap/Develop Service Options.md",
+    "Product Idea - Success in School/-> Mindmap/Design First PDF Guide.md",
     "Product Idea - Success in School/-> Mindmap",
+    "Product Idea - Success in School/Introduction for Parents.md",
+    "Product Idea - Success in School/Overview.md",
+    "Product Idea - Success in School/Notes.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "Product Idea - Success in School/-> Mindmap/Drawing 2025-06-08 22.50.48.excalidraw.md",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2025-06-08 22.41.51.excalidraw.md",
+    "Excalidraw",
+    "Product Idea - Success in School/Tasks.md",
     "Gather Feedback and Iterate.md",
     "Define Core Offering.md",
     "Design First PDF Guide.md",
@@ -208,7 +208,6 @@
     "Ygddf.md",
     "Product Idea - Success in School/Untitled 2.md",
     "Product Idea - Success in School/Untitled 1.md",
-    "conflict-files-obsidian-git.md",
     "Product Idea - Success in School"
   ]
 }
