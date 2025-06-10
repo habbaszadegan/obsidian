@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
+                "file": "Bahonar Parking/June 9th.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design First PDF Guide"
+              "title": "June 9th"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,8 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b108a8988e1edfc",
+  "active": "674de841281c3029",
   "lastOpenFiles": [
+    "Product Idea - Success in School/Mindmap/Define Core Offering.md",
+    "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
     "Bahonar Parking/June 9th.md",
     "Bahonar Parking",
     "Product Idea - Success in School/Mindmap.md",
@@ -187,8 +190,6 @@
     "Product Idea - Success in School/Mindmap/Learn about Local Needs.md",
     "Product Idea - Success in School/Mindmap/Gather Feedback and Iterate.md",
     "Product Idea - Success in School/Mindmap/Develop Service Options.md",
-    "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
-    "Product Idea - Success in School/Mindmap/Define Core Offering.md",
     "Product Idea - Success in School/Mindmap/Create a Public Intro (LinkedIn).md",
     "Product Idea - Success in School/Mindmap",
     "Product Idea - Success in School/Notes.md",
