@@ -34,6 +34,19 @@ The first item when helping with transitioning activities is understanding what 
 
 Lets talk about one of the most common root causes for challenging behaviors related to transitions: stress and overload. This can happen because of the environment (too noisy, too hot, bloated tummy, over stimulation for a long duration, etc.) and can lead to almost instant meltdowns and tantrums. When the child is in the middle of experiencing this, they might be unable to form words to explain why they are having a hard time, and often questions like “What do you need?” often have a backfiring effect since not only do they not know exactly what they need, the pressure caused by the expectation of explaining their need to the person asking it causes them to further spiral down into their tantrum / meltdown.
 
+## What can we do about it?
+
+First thing we can do is take a deep breath. If we're anticipating problems with an upcoming transition, we need to keep our own cool going in.
+Next step is to acknowledge we're anticipating it. That's great news! This means we can *plan* around it. Generally speaking, its a good idea to always follow a set plan for transitions (makes it easier for everyone involved to expect a routine). Once that's been established, we can target the anticipated behavior and employ different tactics to get the kiddo to transition gently and successfully.
+NOTE: remember the rule: "Less is More". Keep your conversation concise and to the point when doing the following steps.
+
+### Step 1: Connect
+
+Try to connect with them before starting the transition process. Look them in the eyes. Call out their name or express your presence in a sing-song voice. Merely show yourself physically and make it clear you are looking for their attention
+
+ ### Step 2: Announce the upcoming transition
+
+Now that you've attempted connection, in a playful and inviting manner announce the transition about to take place in the next few minutes. Advance notice is very important as it creates room for the kiddos attention to switch from the current task to the next one.
 ## Tools & Techniques  
 
 When confronted with these situations the following steps is how to reach a better outcome with the transition:
