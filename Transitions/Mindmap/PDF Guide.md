@@ -66,3 +66,5 @@ In the event they are not handling the transition well:
 
 Ray is playing Tag with his classmates and is asked to start the next activity, which is coloring. At first, he visually seems to comply with the request, but midway to stopping his game and starting the coloring activity he gets upset. After a few minutes he has completely stopped following instructions and is hardrooted to where he is standing, visibly becoming more upset by the moment. He ultimately lets out a sound halfway between crying and a shout of anger and won’t listen to any amount of reasoning the teacher communicates with him.  
 Ray has experienced an inability to switch focus from the first task to the next one. He feels like he didn’t get the opportunity to finish his game and is upset that the task is over so soon. Had he been given some warning
+
+

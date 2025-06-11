@@ -176,19 +176,23 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "whisper:Open recording controls": false
     }
   },
   "active": "34974cccac450b77",
   "lastOpenFiles": [
-    "Transitions/Mindmap.canvas",
+    "Transitions/Introduction for Parents.md",
+    "Bahonar Parking/June 9th.md",
     "Transitions/Mindmap/PDF Guide.md",
+    "2025-06-11T14-36-12-900Z.webm",
+    "2025-06-11T14-35-31-463Z.webm",
+    "Transitions/Mindmap.canvas",
     "Transitions/Mindmap",
     "Product Idea - Success in School/Mindmap.canvas",
     "Product Idea - Success in School/Notes.md",
     "Product Idea - Success in School/Tasks.md",
     "Product Idea - Success in School/Overview.md",
-    "Transitions/Introduction for Parents.md",
     "Transitions/Notes.md",
     "Transitions/Tasks.md",
     "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
@@ -206,7 +210,6 @@
     "Templates/New Project Folder Template.md",
     "Templates",
     "Product Idea - Success in School/Mindmap.md",
-    "Bahonar Parking/June 9th.md",
     "Product Idea - Success in School/Mindmap/Define Core Offering.md",
     "Bahonar Parking",
     "Product Idea - Success in School/Mindmap/Plan for Growth.md",
@@ -218,7 +221,6 @@
     "Product Idea - Success in School/-> Mindmap",
     "Untitled 1.canvas",
     "Excalidraw",
-    "Pasted image 20250608201139.png",
-    "Product Idea - Success in School"
+    "Pasted image 20250608201139.png"
   ]
 }
