@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
+                "file": "Transitions/Mindmap/PDF Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design First PDF Guide"
+              "title": "PDF Guide"
             }
           }
         ]
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,42 +175,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "34974cccac450b77",
   "lastOpenFiles": [
+    "Transitions/Mindmap.canvas",
+    "Transitions/Mindmap/PDF Guide.md",
+    "Transitions/Mindmap",
     "Product Idea - Success in School/Mindmap.canvas",
+    "Product Idea - Success in School/Notes.md",
+    "Product Idea - Success in School/Tasks.md",
+    "Product Idea - Success in School/Overview.md",
+    "Transitions/Introduction for Parents.md",
+    "Transitions/Notes.md",
+    "Transitions/Tasks.md",
     "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
+    "Transitions/Overview.md",
+    "Transitions",
+    "Transitions1/Mindmap.canvas",
+    "Transitions1/Tasks.md.md",
+    "Transitions1/Overview.md.md",
+    "Transitions1/Notes.md.md",
+    "Transitions1",
+    "Transitions/Overview.md.md",
+    "Transitions/Tasks.md.md",
+    "Transitions/Notes.md.md",
+    "Transitions/Mindmap.canvas.md",
+    "Templates/New Project Folder Template.md",
+    "Templates",
     "Product Idea - Success in School/Mindmap.md",
     "Bahonar Parking/June 9th.md",
     "Product Idea - Success in School/Mindmap/Define Core Offering.md",
     "Bahonar Parking",
-    "Product Idea - Success in School/Tasks.md",
     "Product Idea - Success in School/Mindmap/Plan for Growth.md",
     "Product Idea - Success in School/Mindmap/Learn about Local Needs.md",
     "Product Idea - Success in School/Mindmap/Gather Feedback and Iterate.md",
     "Product Idea - Success in School/Mindmap/Develop Service Options.md",
     "Product Idea - Success in School/Mindmap/Create a Public Intro (LinkedIn).md",
     "Product Idea - Success in School/Mindmap",
-    "Product Idea - Success in School/Notes.md",
-    "Product Idea - Success in School/Overview.md",
-    "Product Idea - Success in School/-> Mindmap/Design First PDF Guide.md",
-    "Product Idea - Success in School/-> Mindmap/Define Core Offering.md",
-    "Product Idea - Success in School/-> Mindmap/Create a Public Intro (LinkedIn).md",
-    "Product Idea - Success in School/-> Mindmap/Plan for Growth.md",
-    "Product Idea - Success in School/-> Mindmap/Learn about Local Needs.md",
-    "Product Idea - Success in School/-> Mindmap/Gather Feedback and Iterate.md",
-    "Product Idea - Success in School/-> Mindmap/Develop Service Options.md",
     "Product Idea - Success in School/-> Mindmap",
-    "Product Idea - Success in School/Introduction for Parents.md",
-    "conflict-files-obsidian-git.md",
-    "Product Idea - Success in School/-> Mindmap/Drawing 2025-06-08 22.50.48.excalidraw.md",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2025-06-08 22.41.51.excalidraw.md",
     "Excalidraw",
-    "Gather Feedback and Iterate.md",
-    "Define Core Offering.md",
     "Pasted image 20250608201139.png",
     "Product Idea - Success in School"
   ]

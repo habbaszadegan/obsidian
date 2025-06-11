@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"b3130e705a9eba04","type":"text","text":"Transitions","x":-125,"y":-30,"width":250,"height":60,"color":"2"},
+		{"id":"163d7b201221b632","type":"text","text":"[[PDF Guide]]","x":-125,"y":-208,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b407e54fda1903de","fromNode":"b3130e705a9eba04","fromSide":"top","toNode":"163d7b201221b632","toSide":"bottom"}
+	],
+	"version":"1.0.0"
+}
