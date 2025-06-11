@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c8299ede7a828cba","type":"text","text":"Success in School Product","x":-125,"y":-30,"width":250,"height":60,"color":"2"},
+		{"id":"d2fe261f1556ba5d","x":40,"y":124,"width":250,"height":60,"color":"4","type":"text","text":"[[Develop Service Options]]"},
+		{"id":"84eeaeaf1b9c67a0","x":-280,"y":124,"width":250,"height":60,"color":"4","type":"text","text":"[[Learn About Local Needs]]"},
+		{"id":"a1155cd4370fa788","x":-489,"y":-4,"width":250,"height":60,"color":"6","type":"text","text":"[[Gather Feedback and Iterate]]"},
+		{"id":"7838fd94c81d5f3b","x":-483,"y":-88,"width":250,"height":60,"color":"6","type":"text","text":"[[Plan for Growth]]"},
+		{"id":"9759ff6578e3928f","x":-129,"y":-195,"width":250,"height":60,"color":"3","type":"text","text":"[[Create a Public Intro (LinkedIn)]]"},
+		{"id":"3b40a2e1d280d7d2","type":"text","text":"[[Design First PDF Guide]]","x":220,"y":26,"width":250,"height":60,"color":"5"},
+		{"id":"f6f6c7aa1a1a24ca","type":"text","text":"[[Define Core Offering]]","x":220,"y":-88,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"24ae459bcc550d31","fromNode":"c8299ede7a828cba","fromSide":"right","toNode":"f6f6c7aa1a1a24ca","toSide":"left"},
+		{"id":"e19138f362a903be","fromNode":"c8299ede7a828cba","fromSide":"right","toNode":"3b40a2e1d280d7d2","toSide":"left"},
+		{"id":"7b3233ae2a0332c2","fromNode":"c8299ede7a828cba","fromSide":"bottom","toNode":"d2fe261f1556ba5d","toSide":"top"},
+		{"id":"9c9238862cc1af11","fromNode":"c8299ede7a828cba","fromSide":"bottom","toNode":"84eeaeaf1b9c67a0","toSide":"top"},
+		{"id":"26a0cb86364daa9d","fromNode":"c8299ede7a828cba","fromSide":"left","toNode":"a1155cd4370fa788","toSide":"right"},
+		{"id":"9a6956cdc74943a0","fromNode":"c8299ede7a828cba","fromSide":"left","toNode":"7838fd94c81d5f3b","toSide":"right"},
+		{"id":"291c736c763ed52a","fromNode":"c8299ede7a828cba","fromSide":"top","toNode":"9759ff6578e3928f","toSide":"bottom"}
+	]
+}
