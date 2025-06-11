@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6ab572f44492895d","x":-140,"y":-320,"width":305,"height":90,"color":"2","type":"text","text":"Project Overview: Supporting Young Children & Parents"},
+		{"id":"dc31dcd3ca0fd984","x":-420,"y":-100,"width":349,"height":212,"color":"6","type":"text","text":"## ✨ Vision\nTo create accessible, heartfelt, and practical tools that help young children and their parents succeed in school and life—beginning with transitions and emotional regulation."},
+		{"id":"bf5a67463ba78dee","x":100,"y":-99,"width":350,"height":211,"color":"6","type":"text","text":"## 🧭 North Star Goal\nBuild a trusted body of work (PDFs, guides, video/podcast content) that helps align parent expectations with children's developmental realities—starting with a minimum viable guide."},
+		{"id":"23ccef9a7348e6ec","x":100,"y":235,"width":540,"height":345,"color":"6","type":"text","text":"## 🧩 Core Building Blocks \n- [ ] Introduction for Parents\n- [ ] Understanding Behavior (meltdowns, stress, root causes)\n- [ ] Tools & Techniques (what to try + how to try it)\n- [ ] Practice Plan (real-life steps)\n- [ ] Common Mistakes to Avoid\n- [ ] Visuals/Templates/Rewards Systems\n- [ ] Sample Scenarios\n- [ ] Printable Parent Handouts\n- [ ] Video Scripts / Podcast Outline"},
+		{"id":"99f9ad90715fe94f","x":-491,"y":235,"width":420,"height":345,"color":"6","type":"text","text":"## 🛠️ [[MVP (Minimum Viable Product)]]\nA downloadable guide (PDF) for parents and teachers of children aged 3–6, covering:\n- Transitions between activities\n- Emotional regulation during school routines\n- Simple tools (songs, visuals, routines) they can start using immediately"},
+		{"id":"0aac26b8975cdeb1","x":-1000,"y":87,"width":441,"height":297,"color":"6","type":"text","text":"## 🧠 Research / Development Pool\n- [ ] ABA principles (applied behavior analysis)\n- [ ] Trauma-informed parenting\n- [ ] Whole-Brain Child concepts\n- [ ] Zones of Regulation\n- [ ] Montessori calm-down corners\n- [ ] Developmental expectations (3–6 y/o)"},
+		{"id":"cde935a603c260dd","x":700,"y":87,"width":398,"height":296,"color":"6","type":"text","text":"## 🧗‍♂️ Next Steps\n- [ ] Draft 1 MVP outline\n- [ ] Choose first parent handout topic to finalize\n- [ ] Sketch content ideas for YouTube/podcast\n- [ ] Find 1–2 families or educators to give feedback"}
+	],
+	"edges":[
+		{"id":"95e3ce364714e917","fromNode":"6ab572f44492895d","fromSide":"bottom","toNode":"dc31dcd3ca0fd984","toSide":"top","toEnd":"none","color":"2"},
+		{"id":"7670b8e013131f0b","fromNode":"6ab572f44492895d","fromSide":"bottom","toNode":"bf5a67463ba78dee","toSide":"top","toEnd":"none","color":"2"},
+		{"id":"b312bc92b27df633","fromNode":"6ab572f44492895d","fromSide":"bottom","toNode":"99f9ad90715fe94f","toSide":"top","toEnd":"none","color":"2"},
+		{"id":"696debe4025a3019","fromNode":"6ab572f44492895d","fromSide":"bottom","toNode":"23ccef9a7348e6ec","toSide":"top","toEnd":"none","color":"2"},
+		{"id":"06622e133f10a69e","fromNode":"6ab572f44492895d","fromSide":"bottom","toNode":"0aac26b8975cdeb1","toSide":"top","color":"2"},
+		{"id":"daac98e56c672da6","fromNode":"6ab572f44492895d","fromSide":"bottom","toNode":"cde935a603c260dd","toSide":"top","color":"2"}
+	]
+}

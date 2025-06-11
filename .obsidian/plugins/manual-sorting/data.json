@@ -1,13 +1,15 @@
 {
   "customFileOrder": {
     "/": [
-      "Templates",
+      "Project Overview - Supporting Young Children & Parents",
       "Product Idea - Success in School",
-      "Transitions",
-      "Bahonar Parking"
+      "Bahonar Parking",
+      "Templates"
     ],
     "Bahonar Parking": [
-      "Bahonar Parking/June 9th.md"
+      "Bahonar Parking/June 9th.md",
+      "Templates",
+      "Templates"
     ],
     "Product Idea - Success in School": [
       "Product Idea - Success in School/Overview.md",
@@ -25,19 +27,16 @@
       "Product Idea - Success in School/Mindmap/Plan for Growth.md",
       "Product Idea - Success in School/Mindmap/Create a Public Intro (LinkedIn).md"
     ],
+    "Project Overview - Supporting Young Children & Parents": [
+      "Project Overview - Supporting Young Children & Parents/Overview.canvas",
+      "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)"
+    ],
+    "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)": [
+      "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/MVP (Minimum Viable Product).md",
+      "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/Transitions.md"
+    ],
     "Templates": [
       "Templates/New Project Folder Template.md"
-    ],
-    "Transitions": [
-      "Transitions/Overview.md",
-      "Transitions/Tasks.md",
-      "Transitions/Notes.md",
-      "Transitions/Mindmap.canvas",
-      "Transitions/Mindmap",
-      "Transitions/Introduction for Parents.md"
-    ],
-    "Transitions/Mindmap": [
-      "Transitions/Mindmap/PDF Guide.md"
     ]
   },
   "draggingEnabled": true,

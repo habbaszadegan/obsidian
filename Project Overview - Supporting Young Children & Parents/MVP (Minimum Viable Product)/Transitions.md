@@ -1,3 +1,19 @@
+1. Why Transitions are Hard
+2. Tools for Smooth Transitions
+	1. Visuals
+	2. Songs
+	3. Routines
+3. Helping Kids Stay Calm
+	1. Sensory strategies
+	2. What not to say during meltdowns
+4. Practice Plans for Home & Classroom
+5. Common Pitfalls to Avoid
+6. Printable Templates
+	1. Visual schedule
+	2. Star chart
+	3. Transition prompt cards
+	   
+
 ## Title: Supporting Transitions & Calm Down Skills by Hossein Abbaszadegan
 
 This guide helps with understanding your little one during activity transitions, and how to help them keep their calm.  
@@ -44,7 +60,7 @@ NOTE: remember the rule: "Less is More". Keep your conversation concise and to t
 
 Try to connect with them before starting the transition process. Look them in the eyes. Call out their name or express your presence in a sing-song voice. Merely show yourself physically and make it clear you are looking for their attention
 
- ### Step 2: Announce the upcoming transition
+### Step 2: Announce the upcoming transition
 
 Now that you've attempted connection, in a playful and inviting manner announce the transition about to take place in the next few minutes. Advance notice is very important as it creates room for the kiddos attention to switch from the current task to the next one.
 ## Tools & Techniques  
