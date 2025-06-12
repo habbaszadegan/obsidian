@@ -1,19 +1,19 @@
 {
   "customFileOrder": {
     "/": [
-      "Project Overview - Supporting Young Children & Parents",
-      "Product Idea - Success in School",
       "Bahonar Parking",
-      "Templates"
+      "Project Overview - Supporting Young Children & Parents",
+      "Templates",
+      "Product Idea - Success in School"
     ],
     "Bahonar Parking": [
       "Bahonar Parking/June 9th.md"
     ],
     "Product Idea - Success in School": [
+      "Product Idea - Success in School/Mindmap.canvas",
       "Product Idea - Success in School/Overview.md",
       "Product Idea - Success in School/Tasks.md",
       "Product Idea - Success in School/Notes.md",
-      "Product Idea - Success in School/Mindmap.canvas",
       "Product Idea - Success in School/Mindmap"
     ],
     "Product Idea - Success in School/Mindmap": [
@@ -26,8 +26,8 @@
       "Product Idea - Success in School/Mindmap/Create a Public Intro (LinkedIn).md"
     ],
     "Project Overview - Supporting Young Children & Parents": [
-      "Project Overview - Supporting Young Children & Parents/Overview.canvas",
-      "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)"
+      "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)",
+      "Project Overview - Supporting Young Children & Parents/Overview.canvas"
     ],
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)": [
       "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/MVP (Minimum Viable Product).md",
