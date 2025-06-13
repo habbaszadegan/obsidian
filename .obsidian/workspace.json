@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0b1d467e7cf066",
+        "id": "19fb2ac26439406c",
         "type": "tabs",
         "children": [
           {
-            "id": "674de841281c3029",
+            "id": "34974cccac450b77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Project Overview - Supporting Young Children & Parents/Overview.canvas",
-                "viewState": {
-                  "x": 37.873107142857144,
-                  "y": 376.7427126116072,
-                  "zoom": -1.3210913744948738
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,11 +159,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,49 +171,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "whisper:Open recording controls": false
     }
   },
-  "active": "fe07679a77499c6b",
+  "active": "0b108a8988e1edfc",
   "lastOpenFiles": [
-    "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
-    "Templates/New Project Folder Template.md",
-    "Templates",
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/Transitions.md",
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/MVP (Minimum Viable Product).md",
     "Project Overview - Supporting Young Children & Parents/Overview.canvas",
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)",
     "Project Overview - Supporting Young Children & Parents",
+    "Transitions/Mindmap/PDF Guide.md",
+    "Transitions/Tasks.md",
+    "Transitions/Overview.md",
+    "Transitions/Notes.md",
+    "Transitions/Mindmap.canvas",
+    "Transitions/Mindmap",
+    "Transitions/Introduction for Parents.md",
+    "Transitions",
     "Product Idea - Success in School/Mindmap.canvas",
+    "Title Supporting Transitions & Calm Down Skills.md",
+    "^Title Supporting Transitions & Calm Down Skills by Hossein Abbaszadegan.md",
+    "Project Overview - Supporting Young Children & Parents/Parent Child Project.canvas",
+    "Project Overview - Supporting Young Children & Parents/Parent_Child_Project_Canvas.canvas",
     "Bahonar Parking/June 9th.md",
-    "Bahonar Parking",
-    "Product Idea - Success in School/Mindmap.md",
-    "Product Idea - Success in School/Tasks.md",
-    "Product Idea - Success in School/Mindmap/Plan for Growth.md",
-    "Product Idea - Success in School/Mindmap/Learn about Local Needs.md",
-    "Product Idea - Success in School/Mindmap/Gather Feedback and Iterate.md",
-    "Product Idea - Success in School/Mindmap/Develop Service Options.md",
-    "Product Idea - Success in School/Mindmap/Define Core Offering.md",
-    "Product Idea - Success in School/Mindmap/Create a Public Intro (LinkedIn).md",
-    "Product Idea - Success in School/Mindmap",
+    "2025-06-11T14-36-12-900Z.webm",
+    "2025-06-11T14-35-31-463Z.webm",
     "Product Idea - Success in School/Notes.md",
+    "Product Idea - Success in School/Tasks.md",
     "Product Idea - Success in School/Overview.md",
-    "Product Idea - Success in School/-> Mindmap/Design First PDF Guide.md",
-    "Product Idea - Success in School/-> Mindmap/Define Core Offering.md",
-    "Product Idea - Success in School/-> Mindmap/Create a Public Intro (LinkedIn).md",
-    "Product Idea - Success in School/-> Mindmap/Plan for Growth.md",
-    "Product Idea - Success in School/-> Mindmap/Learn about Local Needs.md",
-    "Product Idea - Success in School/-> Mindmap/Gather Feedback and Iterate.md",
-    "Product Idea - Success in School/-> Mindmap/Develop Service Options.md",
-    "Product Idea - Success in School/-> Mindmap",
-    "Product Idea - Success in School/Introduction for Parents.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
-    "Product Idea - Success in School/-> Mindmap/Drawing 2025-06-08 22.50.48.excalidraw.md",
+    "Product Idea - Success in School/Mindmap/Design First PDF Guide.md",
+    "Transitions1/Mindmap.canvas",
+    "Transitions1/Tasks.md.md",
+    "Transitions1/Overview.md.md",
+    "Transitions1/Notes.md.md",
+    "Transitions1",
+    "Transitions/Overview.md.md",
+    "Transitions/Tasks.md.md",
+    "Transitions/Notes.md.md",
+    "Transitions/Mindmap.canvas.md",
+    "Templates/New Project Folder Template.md",
+    "Templates",
+    "Product Idea - Success in School/Mindmap.md",
+    "Product Idea - Success in School/Mindmap/Define Core Offering.md",
+    "Bahonar Parking",
+    "Product Idea - Success in School/Mindmap/Plan for Growth.md",
+    "Product Idea - Success in School/Mindmap",
     "Untitled 1.canvas",
-    "Excalidraw/Drawing 2025-06-08 22.41.51.excalidraw.md",
-    "Excalidraw",
-    "Pasted image 20250608201139.png",
-    "Product Idea - Success in School"
+    "Pasted image 20250608201139.png"
   ]
 }
