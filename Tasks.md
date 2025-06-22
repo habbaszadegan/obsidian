@@ -1,0 +1,2 @@
+- [ ] confirm bahonar price with anna
+- [ ] chat with get about preparations
