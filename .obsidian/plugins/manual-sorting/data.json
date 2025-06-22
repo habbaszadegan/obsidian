@@ -1,6 +1,8 @@
 {
   "customFileOrder": {
     "/": [
+      "Disaster Prep",
+      "Tasks.md",
       "Project Overview - Supporting Young Children & Parents",
       "Product Idea - Success in School",
       "Bahonar Parking",
@@ -8,6 +10,10 @@
     ],
     "Bahonar Parking": [
       "Bahonar Parking/June 9th.md"
+    ],
+    "Disaster Prep": [
+      "Disaster Prep/Bug out bag.md",
+      "Disaster Prep/Gemini recommendations.md"
     ],
     "Product Idea - Success in School": [
       "Product Idea - Success in School/Overview.md",
