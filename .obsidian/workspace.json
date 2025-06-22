@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +183,8 @@
   },
   "active": "34974cccac450b77",
   "lastOpenFiles": [
-    "Disaster Prep/Bag Prep.md",
     "Disaster Prep/Gemini recommendations.md",
+    "Disaster Prep/Bag Prep.md",
     "Tasks.md",
     "Disaster Prep",
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/Transitions.md",

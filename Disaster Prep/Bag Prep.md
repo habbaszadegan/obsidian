@@ -43,6 +43,8 @@ Misc:
 - [ ] heavy duty garbage bags
 - [ ] sofre
 - [ ] rope
+- [ ] portable shower (watering can)
+- [ ] plenty of plastic bags
 
 - [ ] shoes
 - [ ] clothing (light and stretchy, warm, underwear and socks, hat, fleece jacket)
@@ -50,12 +52,23 @@ Misc:
 - [ ] eyeglasses
 
 - [ ] flashlights
+- [ ] camping stove
+- [ ] lighter fluid
+- [ ] cooking pot / pan
+- [ ] sleeping bags / warm blankets
+- [ ] pillows
+- [ ] eating utensils
+- [ ] small hatchet
+- [ ] sewing kit
+- [ ] super glue
+- [ ] zip ties
 - [ ] basic tools (wrench / pliers)
 - [ ] matches and lighters
 - [ ] Duct tape
 - [ ] pen and paper
 - [ ] small shovel
-- [ ] books / small games
+- [ ] entertainment / books / small games
+- [ ] kids toys
 
 - [ ] bandages / gauze/ medical tape
 - [ ] moist wipes
@@ -71,9 +84,12 @@ Misc:
 - [ ] disinfectant alcohol
 - [ ] small towel
 - [ ] sunscreen
+- [ ] jumper cables
 
 - [ ] copies of important ID documents: All documents from "Go-Bag" + birth certificates, marriage certificates, insurance policies, bank records, medical records (including medication lists, allergies, doctor contacts)
 - [ ] compass
+- [ ] brightly colored clothes / sign
+- [ ] basic car tools (?)
 
 Misc:
 
