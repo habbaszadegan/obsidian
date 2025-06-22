@@ -11,10 +11,14 @@
             "id": "34974cccac450b77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Disaster Prep/Bag Prep.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bag Prep"
             }
           }
         ]
@@ -176,11 +180,11 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "0b108a8988e1edfc",
+  "active": "34974cccac450b77",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Disaster Prep/Bag Prep.md",
     "Disaster Prep/Gemini recommendations.md",
-    "Disaster Prep/Bug out bag.md",
+    "Tasks.md",
     "Disaster Prep",
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/Transitions.md",
     "Project Overview - Supporting Young Children & Parents/MVP (Minimum Viable Product)/MVP (Minimum Viable Product).md",
