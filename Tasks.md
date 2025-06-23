@@ -1,2 +1,15 @@
 - [ ] confirm bahonar price with anna
-- [ ] chat with get about preparations
+- [ ] get check from askari
+
+- [ ] shopping
+- [ ] water purification tablets
+- [ ] water purification filters
+- [ ] collapsible water containers
+- [ ] portable solar panels (20W - 60W)
+- [ ] camp stove
+- [ ] flashlight
+- [ ] small knife
+- [ ] small hatchet
+- [ ] tent
+- [ ] whistle
+- [ ] tarp
